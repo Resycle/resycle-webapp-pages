@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resycle-webapp-pages/static/css/main.deae62a8.css",
-    "main.js": "/resycle-webapp-pages/static/js/main.562ea13d.js",
+    "main.js": "/resycle-webapp-pages/static/js/main.02423f62.js",
     "static/js/23.c552156f.chunk.js": "/resycle-webapp-pages/static/js/23.c552156f.chunk.js",
     "static/js/611.28c4d449.chunk.js": "/resycle-webapp-pages/static/js/611.28c4d449.chunk.js",
     "static/js/500.112d0a99.chunk.js": "/resycle-webapp-pages/static/js/500.112d0a99.chunk.js",
@@ -17,7 +17,7 @@
     "index.html": "/resycle-webapp-pages/index.html",
     "static/media/getFetch.cjs": "/resycle-webapp-pages/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.deae62a8.css.map": "/resycle-webapp-pages/static/css/main.deae62a8.css.map",
-    "main.562ea13d.js.map": "/resycle-webapp-pages/static/js/main.562ea13d.js.map",
+    "main.02423f62.js.map": "/resycle-webapp-pages/static/js/main.02423f62.js.map",
     "23.c552156f.chunk.js.map": "/resycle-webapp-pages/static/js/23.c552156f.chunk.js.map",
     "611.28c4d449.chunk.js.map": "/resycle-webapp-pages/static/js/611.28c4d449.chunk.js.map",
     "500.112d0a99.chunk.js.map": "/resycle-webapp-pages/static/js/500.112d0a99.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.deae62a8.css",
-    "static/js/main.562ea13d.js"
+    "static/js/main.02423f62.js"
   ]
 }
